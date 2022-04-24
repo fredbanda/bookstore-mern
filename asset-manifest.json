@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bookstore-mern/static/css/main.242618eb.css",
+    "main.js": "/bookstore-mern/static/js/main.f6732b11.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/bookstore-mern/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/boy.png": "/bookstore-mern/static/media/boy.da2c0704ba01134165f1.png",
+    "static/media/glassesimoji.png": "/bookstore-mern/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/bookstore-mern/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/crown.png": "/bookstore-mern/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/bookstore-mern/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/bookstore-mern/index.html",
+    "main.242618eb.css.map": "/bookstore-mern/static/css/main.242618eb.css.map",
+    "main.f6732b11.js.map": "/bookstore-mern/static/js/main.f6732b11.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/bookstore-mern/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.242618eb.css",
+    "static/js/main.f6732b11.js"
+  ]
+}
